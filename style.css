@@ -29,6 +29,8 @@ textarea {
 }
 
 .description {
+  width: 85%;
+  border: dashed;
   white-space: pre-wrap;
 }
 
