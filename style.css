@@ -32,6 +32,8 @@ textarea {
   width: 85%;
   border: dashed;
   white-space: pre-wrap;
+  font-size: 24px;
+  font-weight:bold;
 }
 
 .time-block {
